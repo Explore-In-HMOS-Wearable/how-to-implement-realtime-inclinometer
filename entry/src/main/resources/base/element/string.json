@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Inclinometer"
+    },
+    {
+      "name": "pitch_value",
+      "value": "Pitch %1$s°"
+    },
+    {
+      "name": "roll_value",
+      "value": "Roll %1$s°"
+    },
+    {
+      "name": "status_measuring",
+      "value": "Measuring"
+    },
+    {
+      "name": "status_sensor_unavailable",
+      "value": "Sensor unavailable"
+    },
+    {
+      "name": "status_error",
+      "value": "Measurement error"
+    },
+    {
+      "name": "status_stopped",
+      "value": "Measurement stopped"
+    },
+    {
+      "name": "starter_hello",
+      "value": "Hello World"
+    },
+    {
+      "name": "starter_welcome",
+      "value": "Welcome"
+    }
+  ]
+}

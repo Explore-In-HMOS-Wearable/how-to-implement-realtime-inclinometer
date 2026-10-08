@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#0D1722"
+    },
+    {
+      "name": "level_surface",
+      "value": "#162535"
+    },
+    {
+      "name": "level_border",
+      "value": "#7190A5"
+    },
+    {
+      "name": "level_grid",
+      "value": "#527083"
+    },
+    {
+      "name": "level_accent",
+      "value": "#66E2C4"
+    },
+    {
+      "name": "status_warning",
+      "value": "#FFB877"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    }
+  ]
+}
